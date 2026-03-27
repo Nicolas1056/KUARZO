@@ -29,7 +29,11 @@ module.exports = {
         DEFAULT: '#282828',
         500: '#111111'
       },
-      quaternary: '#C2C2C2'
+      quaternary: {
+        DEFAULT: '#C2C2C2',
+        500: '#ffffff',
+        950: '#000000'
+      }
     },
 
   },
